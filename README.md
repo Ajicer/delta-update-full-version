@@ -12,7 +12,6 @@ Getting started with **Delta Executor** is super simple:
 ## 📌 About  
 **Delta Executor** is a sleek, high-performance **Roblox script executor** designed for smooth, stable, and secure script execution. Whether you're a hobbyist, developer, or advanced modder, Delta makes running scripts on Roblox effortless and efficient.
 
-![Preview](/assets/Delta.jpg)
 
 ## 📑 Table of Contents  
 - [Introduction](#-introduction)  
